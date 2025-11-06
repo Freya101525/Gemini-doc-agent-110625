@@ -1,0 +1,5 @@
+{
+  "name": "Agentic AI Document Processor",
+  "description": "An intelligent document processing system that uses OCR and a chain of configurable AI agents to extract, analyze, and summarize information from your files.",
+  "requestFramePermissions": []
+}
